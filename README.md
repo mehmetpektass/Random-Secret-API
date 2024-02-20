@@ -30,7 +30,7 @@ node index.js
 
 ```
 
-.
+
 
 ## Contributing
 
